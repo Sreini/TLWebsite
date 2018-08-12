@@ -11825,23 +11825,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NGALATIS\\.nuget\\packages\\": {},
+    "C:\\Users\\eirin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\TLWebsite\\TLWebsite\\TLWebsite\\TLWebsite.csproj",
+      "projectUniqueName": "D:\\Repos\\TLWebsite\\TLWebsite\\TLWebsite\\TLWebsite.csproj",
       "projectName": "TLWebsite",
-      "projectPath": "D:\\repos\\TLWebsite\\TLWebsite\\TLWebsite\\TLWebsite.csproj",
-      "packagesPath": "C:\\Users\\NGALATIS\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\TLWebsite\\TLWebsite\\TLWebsite\\obj\\",
+      "projectPath": "D:\\Repos\\TLWebsite\\TLWebsite\\TLWebsite\\TLWebsite.csproj",
+      "packagesPath": "C:\\Users\\eirin\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\TLWebsite\\TLWebsite\\TLWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\NGALATIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eirin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11849,8 +11849,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://gallery.uipath.com/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
